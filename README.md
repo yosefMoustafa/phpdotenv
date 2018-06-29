@@ -2,7 +2,7 @@ PHP dotenv
 ==========
 
 Loads environment variables from `.env` to `getenv()`, `$_ENV` and
-`$_SERVER` automagically.
+`$_SERVER` automatically.
 
 This is a PHP version of the original [Ruby
 dotenv](https://github.com/bkeepers/dotenv).
